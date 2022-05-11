@@ -6,6 +6,7 @@ practicaldocker1644076894974.pdf
 .DS_Store                       
 system-engineer-interview-app/
 *.log
+*.pdf
 open_vpn_docker_client/files/aliases
 open_vpn_docker_client/files/sao
 open_vpn_docker_client/files/uname_oci
