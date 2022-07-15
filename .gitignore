@@ -1,13 +1,3 @@
 .git/           
-open_vpn_docker_client/docker1
-practical-docker/
-docker-arch-vpn/
 .DS_Store                       
-system-engineer-interview-app/
-*.log
-open_vpn_docker_client/files/aliases
-open_vpn_docker_client/files/sao
-open_vpn_docker_client/files/uname_oci
-open_vpn_docker_client/files/uname_sc9
-open_vpn_docker_client/vpn_conf_files/
-open_vpn_docker_client/other/
+**/**/aliases
