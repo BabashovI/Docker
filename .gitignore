@@ -1,2 +1,6 @@
 .git/           
-.DS_Store                       
+.DS_Store   
+*.ovpn  
+ovpn_docker_client/scripts/__pycache__/*                 
+ovpn_docker_client/other/*
+ovpn_docker_client/files/*
