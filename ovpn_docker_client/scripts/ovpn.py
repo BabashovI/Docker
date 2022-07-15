@@ -41,6 +41,7 @@ class test():
         pass
 
 
-change_opvn(path)
-hosts_alias_files()
-screenrc()
+if __name__ == '__main__':
+    change_opvn(path)
+    hosts_alias_files()
+    screenrc()
