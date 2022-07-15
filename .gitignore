@@ -1,6 +1,9 @@
 .git/           
 .DS_Store   
-*.ovpn  
+*.ovpn
+aliases
+sao
+uname_sc9
+uname_oci
 ovpn_docker_client/scripts/__pycache__/*                 
 ovpn_docker_client/other/*
-ovpn_docker_client/files/*
